@@ -22,7 +22,7 @@ Now you may go to your browser and open https://localhost
 
 ## Deploy it to AWS
 
-Read this [README](infrastructure).
+Read this [README](../infrastructure).
 
 ## Endpoints
 
