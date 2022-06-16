@@ -31,4 +31,4 @@ There are three endpoints. We use only POSTs methods because the specifications 
 * POST `/policy/modification`
 * POST `/policy/information`
 
-Read the specifications [HERE](api/docs/EMBEA_PMS_Specifications.pdf).
+Read the specifications [HERE](docs/EMBEA_PMS_Specifications.pdf).
